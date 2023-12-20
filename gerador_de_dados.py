@@ -1,13 +1,13 @@
 import random
 
 # Listas de dados predefinidos
-nomes = ['Alice', 'Bob', 'Carol', 'David', 'Eve']
-emails = ['alice@example.com', 'bob@example.com',
-          'carol@example.com', 'david@example.com', 'eve@example.com']
-telefones = ['(11) 99999-1111', '(22) 88888-2222',
-             '(33) 77777-3333', '(44) 66666-4444', '(55) 55555-5555']
-cidades = ['São Paulo', 'Rio de Janeiro', 'Salvador', 'Fortaleza', 'Curitiba']
-estados = ['SP', 'RJ', 'BA', 'CE', 'PR']
+nomes = ['João Silva', 'Maria Oliveira', 'Carlos Santos', 'Ana Souza', 'Pedro Ferreira']
+emails = ['joao.silva@gmail.com', 'maria.oliveira@hotmail.com',
+          'carlos.santos@outlook.com', 'ana.souza@yahoo.com', 'pedro.ferreira@uol.com.br']
+telefones = ['(11) 91234-5678', '(21) 92345-6789',
+             '(31) 93456-7891', '(41) 94567-8912', '(51) 95678-9123']
+cidades = ['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre']
+estados = ['SP', 'RJ', 'MG', 'PR', 'RS']
 
 # Função para gerar os dados aleatórios
 
